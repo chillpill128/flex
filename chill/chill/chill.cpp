@@ -2,6 +2,10 @@
 //
 
 #include <iostream>
+int step(int)
+{
+    
+}
 void step()
     {
 
