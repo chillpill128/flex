@@ -6,6 +6,10 @@ void run()
 {
 
 }
+void ru()
+{
+
+}
 int run(int)
 {
 
