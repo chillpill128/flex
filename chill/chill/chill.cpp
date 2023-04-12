@@ -2,6 +2,14 @@
 //
 
 #include <iostream>
+void run()
+{
+
+}
+int run(int)
+{
+
+}
 void pop()
 {
 
