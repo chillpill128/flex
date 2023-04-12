@@ -8,9 +8,10 @@ float ste(float)
 {
 
 }
-int step(int)
+int step(int x)
 {
-    
+   
+    x - 9 = 0;
 }
 void step()
     {
