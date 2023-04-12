@@ -2,6 +2,11 @@
 //
 
 #include <iostream>
+void step()
+    {
+
+    }
+
 void pop()
 {
 
