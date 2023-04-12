@@ -2,6 +2,10 @@
 //
 
 #include <iostream>
+float ste(float)
+{
+
+}
 int step(int)
 {
     
