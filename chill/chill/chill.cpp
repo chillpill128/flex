@@ -2,6 +2,8 @@
 //
 
 #include <iostream>
+
+
 float ste(float)
 {
 
@@ -14,8 +16,20 @@ void step()
     {
 
     }
+void run()
+{
 
+}
+void ru()
+{
+
+}
+int run(int)
+{
+
+}
 void pop()
+
 {
 
 }
